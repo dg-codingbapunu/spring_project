@@ -7,8 +7,6 @@ public class A {
         int y = 2000;
         String z = "300";
 
-        int f = 30;
-
     }
 
 }
