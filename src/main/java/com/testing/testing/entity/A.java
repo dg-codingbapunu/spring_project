@@ -8,8 +8,6 @@ public class A {
         String z = "300";
         float f = 20.3f;
         double d = 20.0d;
-        short sh = 20;
-
 
 
     }
