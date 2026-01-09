@@ -6,6 +6,9 @@ public class A {
 
         int y = 2000;
         String z = "300";
+        float f = 20.3f;
+        double d = 20.0d;
+
 
     }
 
